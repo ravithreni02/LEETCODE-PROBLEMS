@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -38,5 +39,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
