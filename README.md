@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 ## Simulation
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
