@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -102,4 +105,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0234-palindrome-linked-list/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
