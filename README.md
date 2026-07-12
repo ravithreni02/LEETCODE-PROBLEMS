@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
