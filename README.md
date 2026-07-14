@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +133,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
