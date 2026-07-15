@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
