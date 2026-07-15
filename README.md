@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
