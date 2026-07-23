@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Matrix
@@ -192,10 +193,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
