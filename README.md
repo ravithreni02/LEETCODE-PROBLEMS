@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1025-divisor-game/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0486-predict-the-winner](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1025-divisor-game/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1025-divisor-game/) | Easy |
 ## String
 | Problem Name | Difficulty |
