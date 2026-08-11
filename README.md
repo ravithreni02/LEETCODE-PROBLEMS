@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3731-find-missing-elements/) | Easy |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3731-find-missing-elements](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3731-find-missing-elements/) | Easy |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
