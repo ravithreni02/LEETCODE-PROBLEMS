@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0039-combination-sum/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0205-isomorphic-strings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
