@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Union-Find
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0040-combination-sum-ii/) | Medium |
+| [0079-word-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0079-word-search/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0079-word-search/) | Medium |
 | [0205-isomorphic-strings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -347,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0100-same-tree/) | Easy |
