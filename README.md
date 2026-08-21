@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3731-find-missing-elements/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -302,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -312,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
