@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0148-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -328,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -456,4 +461,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
