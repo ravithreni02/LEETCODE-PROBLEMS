@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1025-divisor-game/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1025-divisor-game/) | Easy |
+| [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1025-divisor-game/) | Easy |
+| [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 ## String
@@ -300,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -456,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -464,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
