@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1901-find-a-peak-element-ii/) | Medium |
