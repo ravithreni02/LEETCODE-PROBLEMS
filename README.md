@@ -398,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0547-number-of-provinces/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
