@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0061-rotate-list/) | Medium |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
@@ -522,4 +525,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0836-rectangle-overlap/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
