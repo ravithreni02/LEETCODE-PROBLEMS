@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0486-predict-the-winner/) | Medium |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
