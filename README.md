@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
