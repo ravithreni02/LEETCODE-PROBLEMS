@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0148-sort-list/) | Medium |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0148-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0451-sort-characters-by-frequency/) | Medium |
