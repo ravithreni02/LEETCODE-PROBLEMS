@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0735-asteroid-collision/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -499,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
