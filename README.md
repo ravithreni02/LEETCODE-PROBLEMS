@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0088-merge-sorted-array/) | Easy |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0040-combination-sum-ii/) | Medium |
+| [0078-subsets](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0079-word-search/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Enumeration
