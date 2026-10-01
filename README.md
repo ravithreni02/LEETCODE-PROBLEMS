@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0079-word-search/) | Medium |
 | [0205-isomorphic-strings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0205-isomorphic-strings/) | Easy |
@@ -506,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
