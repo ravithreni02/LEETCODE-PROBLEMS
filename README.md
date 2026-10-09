@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1927-sum-game/) | Medium |
@@ -533,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
