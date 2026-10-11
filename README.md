@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Heap (Priority Queue)
