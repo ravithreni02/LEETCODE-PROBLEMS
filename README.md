@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
