@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1922-count-good-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1927-sum-game/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
