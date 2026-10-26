@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3731-find-missing-elements/) | Easy |
@@ -121,11 +122,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0547-number-of-provinces/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -522,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -560,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
