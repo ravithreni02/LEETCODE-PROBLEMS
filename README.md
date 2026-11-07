@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
