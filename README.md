@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0547-number-of-provinces/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -472,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2029-stone-game-ix](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -549,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
@@ -590,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
