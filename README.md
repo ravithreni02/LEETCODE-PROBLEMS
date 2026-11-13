@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1025-divisor-game/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1922-count-good-numbers/) | Medium |
