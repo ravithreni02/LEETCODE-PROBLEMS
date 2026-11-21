@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0561-array-partition](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0735-asteroid-collision/) | Medium |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0561-array-partition](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Tree
