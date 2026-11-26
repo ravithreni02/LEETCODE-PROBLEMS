@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3360-stone-removal-game/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/0735-asteroid-collision/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
