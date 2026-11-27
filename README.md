@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3875-construct-uniform-parity-array-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/1872-stone-game-viii/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3693-climbing-stairs-ii/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ravithreni02/LEETCODE-PROBLEMS/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
